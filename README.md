@@ -4,9 +4,9 @@
 
 
 ## Explain
-> /src/pages中以文件夹为单位，每一个文件夹最终都生成相对应文件夹名字的html
-> yarn created or npm run created 会帮助你生成一套文件夹
-> show me the code, talk is cheap!
+> /src/pages中以文件夹为单位，每一个文件夹最终都生成相对应文件夹名字的html<br/>
+> yarn created or npm run created 会帮助你生成一套文件夹<br/>
+> show me the code, talk is cheap!<br/>
 
 
 ## Build Setup
