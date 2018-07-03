@@ -1,0 +1,42 @@
+/* common */
+
+@media screen and (min-width: 740px) {
+    #app {
+        width: 740px;
+        margin-left: auto;
+        margin-right: auto;
+        position: relative;
+    }
+}
+
+.clearfix:after {
+    content: "";
+    display: block;
+    visibility: hidden;
+    height: 0;
+    clear: both;
+}
+
+.clearfix {
+    zoom: 1;
+}
+
+em,
+i {
+    font-style: normal;
+}
+
+ul,
+ol {
+    list-style: none;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    width: auto\9;
+    /* ie8 */
+    display: block;
+    -ms-interpolation-mode: bicubic;
+    /*为了照顾ie图片缩放失真*/
+}
